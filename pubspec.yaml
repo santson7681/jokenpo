@@ -1,0 +1,30 @@
+name: jokenpo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.4 <4.0.0"  # Certifique-se de estar usando uma versão que suporte o Flutter SDK atual
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8  # Ícones de estilo iOS
+  logging: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0  # Regras de lint recomendadas para boas práticas
+
+flutter:
+  uses-material-design: true
+
+  # Adiciona as imagens do jogo ao aplicativo
+  assets:
+    - assets/padrao.png
+    - assets/papel.png
+    - assets/pedra.png
+    - assets/tesoura.png
+    - assets/trofeu.png
