@@ -1,16 +1,7 @@
 # jokenpo
 
-A new Flutter project.
+Este é um aplicativo simples desenvolvido em Flutter, implementando a lógica do clássico jogo Jokenpô (Pedra, Papel e Tesoura).
 
-## Getting Started
+O app utiliza uma interface intuitiva e lógica de programação em Dart para determinar o vencedor com base nas escolhas do jogador e do computador. É uma ótima demonstração prática de lógica condicional e interatividade em aplicativos móveis.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ideal para quem está começando com Flutter e deseja entender como estruturar a lógica de um jogo básico. 
