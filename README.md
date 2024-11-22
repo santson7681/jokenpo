@@ -1,4 +1,4 @@
-# jokenpo
+# Jokenpô
 
 Este é um aplicativo simples desenvolvido em Flutter, implementando a lógica do clássico jogo Jokenpô (Pedra, Papel e Tesoura).
 
